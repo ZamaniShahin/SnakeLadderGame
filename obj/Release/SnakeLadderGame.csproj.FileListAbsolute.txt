@@ -1,0 +1,35 @@
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\1.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\2.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\3.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\4.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\5.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\6.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\Resources\roll.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\roll.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\SnakeLadderGame.exe.config
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\SnakeLadderGame.exe
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Release\SnakeLadderGame.pdb
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Release\SnakeLadderGame.csprojAssemblyReference.cache
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Release\SnakeLadderGame.Main.resources
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Release\SnakeLadderGame.Properties.Resources.resources
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Release\SnakeLadderGame.csproj.GenerateResource.cache
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Release\SnakeLadderGame.csproj.CoreCompileInputs.cache
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Release\SnakeLadderGame.exe
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Release\SnakeLadderGame.pdb
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\1.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\2.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\3.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\4.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\5.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\6.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\roll.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\SnakeLadderGame.exe.config
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\SnakeLadderGame.exe
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Release\SnakeLadderGame.pdb
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Release\SnakeLadderGame.csprojAssemblyReference.cache
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Release\SnakeLadderGame.Main.resources
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Release\SnakeLadderGame.Properties.Resources.resources
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Release\SnakeLadderGame.csproj.GenerateResource.cache
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Release\SnakeLadderGame.csproj.CoreCompileInputs.cache
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Release\SnakeLadderGame.exe
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Release\SnakeLadderGame.pdb

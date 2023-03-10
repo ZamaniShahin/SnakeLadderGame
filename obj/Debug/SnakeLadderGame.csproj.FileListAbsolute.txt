@@ -1,0 +1,45 @@
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\SnakeLadderGame.exe.config
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\SnakeLadderGame.exe
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\SnakeLadderGame.pdb
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Debug\SnakeLadderGame.csprojAssemblyReference.cache
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Debug\SnakeLadderGame.Properties.Resources.resources
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Debug\SnakeLadderGame.csproj.GenerateResource.cache
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Debug\SnakeLadderGame.csproj.CoreCompileInputs.cache
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Debug\SnakeLadderGame.exe
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Debug\SnakeLadderGame.pdb
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\obj\Debug\SnakeLadderGame.Main.resources
+C:\Users\shahin\Desktop\SnakeLadderGame\bin\Debug\SnakeLadderGame.exe.config
+C:\Users\shahin\Desktop\SnakeLadderGame\bin\Debug\SnakeLadderGame.exe
+C:\Users\shahin\Desktop\SnakeLadderGame\bin\Debug\SnakeLadderGame.pdb
+C:\Users\shahin\Desktop\SnakeLadderGame\obj\Debug\SnakeLadderGame.csprojAssemblyReference.cache
+C:\Users\shahin\Desktop\SnakeLadderGame\obj\Debug\SnakeLadderGame.Main.resources
+C:\Users\shahin\Desktop\SnakeLadderGame\obj\Debug\SnakeLadderGame.Properties.Resources.resources
+C:\Users\shahin\Desktop\SnakeLadderGame\obj\Debug\SnakeLadderGame.csproj.GenerateResource.cache
+C:\Users\shahin\Desktop\SnakeLadderGame\obj\Debug\SnakeLadderGame.csproj.CoreCompileInputs.cache
+C:\Users\shahin\Desktop\SnakeLadderGame\obj\Debug\SnakeLadderGame.exe
+C:\Users\shahin\Desktop\SnakeLadderGame\obj\Debug\SnakeLadderGame.pdb
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\SnakeLadderGame.exe.config
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\SnakeLadderGame.exe
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\SnakeLadderGame.pdb
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Debug\SnakeLadderGame.csprojAssemblyReference.cache
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Debug\SnakeLadderGame.Main.resources
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Debug\SnakeLadderGame.Properties.Resources.resources
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Debug\SnakeLadderGame.csproj.GenerateResource.cache
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Debug\SnakeLadderGame.csproj.CoreCompileInputs.cache
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Debug\SnakeLadderGame.exe
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\obj\Debug\SnakeLadderGame.pdb
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\Resources\roll.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\roll.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\1.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\2.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\3.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\4.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\5.jpg
+C:\Users\shahin\Desktop\New folder\SnakeLadderGame\bin\Debug\6.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\1.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\2.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\3.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\4.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\5.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\6.jpg
+D:\Term 2\برنامه سازی پیشرفته\Projects\uni projects\SnakeLadderGame\bin\Debug\roll.jpg
